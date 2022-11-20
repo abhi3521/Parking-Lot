@@ -1,2 +1,7 @@
-package enums;public enum PaymentType {
+package enums;
+
+public enum PaymentType {
+    CASH,
+    UPI,
+    CARD
 }

@@ -1,2 +1,6 @@
-package enums;public enum TicketStatus {
+package enums;
+
+public enum TicketStatus {
+    PENDING,
+    DONE
 }
